@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [repository solution](https://your-solution-url.com)
+- Solution URL: [repository solution](https://github.com/EdisonPadilla/Four-card-feature-section)
 - Live Site URL: [live site(github page)](https://your-live-site-url.com)
 
 ## My process
