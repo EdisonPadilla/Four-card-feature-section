@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [repository solution](https://github.com/EdisonPadilla/Four-card-feature-section)
-- Live Site URL: [live site(github page)](https://your-live-site-url.com)
+- Live Site URL: [live site(github page)](https://edisonpadilla.github.io/Four-card-feature-section/)
 
 ## My process
 
