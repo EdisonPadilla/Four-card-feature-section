@@ -150,7 +150,7 @@ footer {
   border-bottom-width: 1px;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 416px) {
   body {
     height: 100%;
     margin: 10% 0%;
